@@ -1,0 +1,1 @@
+"""Core business logic layer (turn-based combat, formulas, state management)."""
